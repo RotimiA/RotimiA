@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi, I'm Rotimi 👋
 
 <!--
-**RotimiA/RotimiA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **RotimiA/RotimiA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a developer and creative technologist passionate about blending **hardware**, **software**, and **design** to create thoughtful, human-centred products.
+
+Whether it's coding out a website or building connected physical devices, I enjoy working across disciplines to bring ideas to life. Inspired by my surroundings, people, and things, I believe in crafting experiences that are not only functional but delightful.
+
+### I'm currently working on:
+
+### 🛠 Technologies I use
+- **Frontend:** HTML, CSS, JavaScript, React(Next.js), Svelte
+- **Backend:** Node.js, Python
+- **Embedded:** C/C++, Arduino
+- **Other Tools**: Figma, KiCad, Docker, AWS, Vercel, Framer, Webflow
+
+### 🌱 Currently Exploring
+
+### 🚀 Projects in Progress
+
+### 📥 How to Reach Me
+- [LinkedIn] (www.linkedin.com/in/olarotimiabimbola)
+- [Website] (https://www.olarotimiabimbola.com/)
+- [Twitter] (https://x.com/R0TI__)
+
+
